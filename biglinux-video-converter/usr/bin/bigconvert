@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#Authors:
+#  Bruno Goncalves Araujo <www.biglinux.com.br>
+#
+#License: GPLv2 or later
+#################################################
+
+OIFS=$IFS
+IFS=$'\n'
+
+for i in $*
+do
+    echo "$i" >> ~/.bigconvert/videos
+done
+
+cd "/usr/share/bigcontrolcenter/categories/others/bigconvert"
+
+IFS=$OIFS
+
+if [ "$(ps -x 2> /dev/null | grep -c "bigbashview.py -c convert.sh.htm")" -lt "2" ]
+then
+      bigbashview  -w fixed -s 640x480 -t qt convert.sh.htm -i icon.png
+fi
+
