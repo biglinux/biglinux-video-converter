@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-video-converter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2020-04-23 05:23-0300\n"
+        "POT-Creation-Date: 2020-05-16 13:28-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,25 +16,359 @@ msgstr  "Project-Id-Version: biglinux-video-converter\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "Video 3GP (263)"
+msgid   "1.0 (Maximo)"
 msgstr  ""
 
-msgid   "Manter vídeo original e converter áudio"
+msgid   "0.9"
 msgstr  ""
 
-msgid   "Video DIVX4"
+msgid   "0.8"
 msgstr  ""
 
-msgid   "Video DIVX3"
+msgid   "0.7"
 msgstr  ""
 
-msgid   "Extrair áudio para MP3"
+msgid   "0.6"
 msgstr  ""
 
-msgid   "Video MP4 (264) - Recomendado"
+msgid   "0.5"
 msgstr  ""
 
-msgid   "Video XVID"
+msgid   "0.4"
+msgstr  ""
+
+msgid   "0.3"
+msgstr  ""
+
+msgid   "0.2"
+msgstr  ""
+
+msgid   "0.1"
+msgstr  ""
+
+msgid   "0.0 (Manter original)"
+msgstr  ""
+
+msgid   "-0.1"
+msgstr  ""
+
+msgid   "-0.2"
+msgstr  ""
+
+msgid   "-0.3"
+msgstr  ""
+
+msgid   "-0.4"
+msgstr  ""
+
+msgid   "-0.5"
+msgstr  ""
+
+msgid   "-0.6"
+msgstr  ""
+
+msgid   "-0.7"
+msgstr  ""
+
+msgid   "-0.8"
+msgstr  ""
+
+msgid   "-0.9"
+msgstr  ""
+
+msgid   "-1.0 (Minimo)"
+msgstr  ""
+
+msgid   "6 (Surround 5.1)"
+msgstr  ""
+
+msgid   "5 (Surround 5.0)"
+msgstr  ""
+
+msgid   "4 (Surround 4.0)"
+msgstr  ""
+
+msgid   "2 (Stereo)"
+msgstr  ""
+
+msgid   "1 (Mono)"
+msgstr  ""
+
+msgid   "0 (Mudo)"
+msgstr  ""
+
+msgid   "2.0 (Maximo)"
+msgstr  ""
+
+msgid   "1.8"
+msgstr  ""
+
+msgid   "1.6"
+msgstr  ""
+
+msgid   "1.4"
+msgstr  ""
+
+msgid   "1.2"
+msgstr  ""
+
+msgid   "1.0 (Manter original)"
+msgstr  ""
+
+msgid   "0.0"
+msgstr  ""
+
+msgid   "-1.0"
+msgstr  ""
+
+msgid   "-1.2"
+msgstr  ""
+
+msgid   "-1.4"
+msgstr  ""
+
+msgid   "-1.6"
+msgstr  ""
+
+msgid   "-1.8"
+msgstr  ""
+
+msgid   "-2.0 (Minimo)"
+msgstr  ""
+
+msgid   "Selecione outra pasta pois seu usuario nao possui permissao de "
+        "escrita na selecionada."
+msgstr  ""
+
+msgid   "Big Converter Video"
+msgstr  ""
+
+msgid   "Nenhum video foi selecionado para conversao, adicione-o antes de "
+        "prosseguir."
+msgstr  ""
+
+msgid   "Adicionar videos"
+msgstr  ""
+
+msgid   "Esvaziar lista"
+msgstr  ""
+
+msgid   "Alterar destino"
+msgstr  ""
+
+msgid   "Avancar"
+msgstr  ""
+
+msgid   "Sair"
+msgstr  ""
+
+msgid   "Remover da lista"
+msgstr  ""
+
+msgid   "Reproduzir"
+msgstr  ""
+
+msgid   "Ver informacoes"
+msgstr  ""
+
+msgid   "Onde serao salvos os videos ou audios convertidos"
+msgstr  ""
+
+msgid   "Converta videos ou extraia audio."
+msgstr  ""
+
+msgid   "Videos a converter"
+msgstr  ""
+
+msgid   "Destino dos videos convertidos"
+msgstr  ""
+
+msgid   "$savein"
+msgstr  ""
+
+msgid   "Converta videos e audios"
+msgstr  ""
+
+msgid   "3.0 (Maior)"
+msgstr  ""
+
+msgid   "2.8"
+msgstr  ""
+
+msgid   "2.6"
+msgstr  ""
+
+msgid   "2.4"
+msgstr  ""
+
+msgid   "2.2"
+msgstr  ""
+
+msgid   "2.0"
+msgstr  ""
+
+msgid   "1.8 (Padrao)"
+msgstr  ""
+
+msgid   "1.0"
+msgstr  ""
+
+msgid   "0.2 (Menor)"
+msgstr  ""
+
+msgid   "Voltar"
+msgstr  ""
+
+msgid   "Ao clicar aqui o Big Converter Video sera configurado para gerar "
+        "videos a serem reproduzidos nesse dispositivo."
+msgstr  ""
+
+msgid   "Dicas"
+msgstr  ""
+
+msgid   "<li>As opcoes MP4 Portatil e 3GP sao para uso em equipamentos "
+        "portateis, principalmente celulares. MP4 possui melhor qualidade, "
+        "enquanto o 3GP e suportado por uma variedade maior de aparelhos.\n"
+        "<p><li>MP4 (264) possui possui otimizacoes nao suportadas pela opcao "
+        "portatil, mas para assistir no computador e a melhor opcao.\n"
+        "<p><li>XVID possui compactacao melhor que o DIVX e costuma funcionar "
+        "bem em equipamentos que suportam DIVX, principalmente DVD Players.\n"
+        "<p><li>As opcoes Audio MP3 e audio M4A extraem somente o audio do "
+        "arquivo de video, util principalmente para ouvir em seu MP3 Player, "
+        "sendo o MP3 compativel com mais aparelhos e o M4A com mais "
+        "qualidade.\n"
+        "<p><li>Para obter a melhor qualidade confira no manual do "
+        "equipamento onde ira reproduzir o conteudo convertido qual a "
+        "recomendacao do fabricante para formato e resolucao.\n"
+        "<p><li>Lembre que conversoes sempre possuem perda de qualidade, "
+        "portanto converter um video da baixa qualidade para um formato de "
+        "melhor qualidade nao tera melhorias na imagem.\n"
+        "<p><li>A resolucao otimizada para DVD mantem a resolucao original "
+        "ate a largura de 720 pixels que e o limite dos DVD Players, caso a "
+        "resolucao original seja maior, sera reduzida para 720 pixels."
+msgstr  ""
+
+msgid   "Configuracoes automaticas"
+msgstr  ""
+
+msgid   "Celular simples, com suporte a 3GP."
+msgstr  ""
+
+msgid   "Celular intermediario, com suporte a MP4."
+msgstr  ""
+
+msgid   "Celular moderno, com suporte a MP4."
+msgstr  ""
+
+msgid   "DVD Player, com suporte a XVID."
+msgstr  ""
+
+msgid   "DVD Player, com suporte a DIVX."
+msgstr  ""
+
+msgid   "iPOD somente audio."
+msgstr  ""
+
+msgid   "iPOD video."
+msgstr  ""
+
+msgid   "PSP Sony."
+msgstr  ""
+
+msgid   "Playstation 3."
+msgstr  ""
+
+msgid   "XBOX 360."
+msgstr  ""
+
+msgid   "Visualizar previsao"
+msgstr  ""
+
+msgid   "Iniciar conversao"
+msgstr  ""
+
+msgid   "Os arquivos de legenda devem estar na mesma pasta que o video e com "
+        "o mesmo nome, sendo diferenciados apenas pela extensao.<br>Caso "
+        "existam legendas .ass e .srt sera utilizada a .ass.<br>Somente "
+        "legendas .srt obedecem a formatacao desse configurador."
+msgstr  ""
+
+msgid   "Insere uma borda escura em torno da fonte que torna a leitura da "
+        "legenda muito agradavel."
+msgstr  ""
+
+msgid   "Prever resultado"
+msgstr  ""
+
+msgid   "Embutir legenda"
+msgstr  ""
+
+msgid   "Cor:"
+msgstr  ""
+
+msgid   "Adicionar borda"
+msgstr  ""
+
+msgid   "Bitrate em kbps"
+msgstr  ""
+
+msgid   "Extras"
+msgstr  ""
+
+msgid   "Brilho"
+msgstr  ""
+
+msgid   "Contraste"
+msgstr  ""
+
+msgid   "Saturacao (Cor)"
+msgstr  ""
+
+msgid   "Tempo indicado para iniciar a previsao ultrapassa o limite do video, "
+        "gerando previsao a partir do inicio."
+msgstr  ""
+
+msgid   "Big Converter"
+msgstr  ""
+
+msgid   "Selecione o video a ser utilizado na previsao."
+msgstr  ""
+
+msgid   "Selecione quantos segundos deve ter a previsao.\n"
+        "\n"
+        "A previsao precisa ser completamente gerada antes de ser iniciada, "
+        "dessa forma quanto mais segundos for escolhido mais tempo ira "
+        "demorar para a previsao ser iniciada."
+msgstr  ""
+
+msgid   "BigMencoder"
+msgstr  ""
+
+msgid   "Iniciando..."
+msgstr  ""
+
+msgid   "Conversao cancelada."
+msgstr  ""
+
+msgid   "Conversao de $i concluida."
+msgstr  ""
+
+msgid   "Big Mencoder"
+msgstr  ""
+
+msgid   "Selecione o arquivo a ser utilizado na previsao"
+msgstr  ""
+
+msgid   "(hh:mm:ss)"
+msgstr  ""
+
+msgid   "Conversao concluida."
+msgstr  ""
+
+msgid   "3.0 (Maximo)"
+msgstr  ""
+
+msgid   "0.0 (Minimo)"
 msgstr  ""
 
 msgid   "AAC"
@@ -370,33 +704,6 @@ msgstr  ""
 msgid   "1.0 (Maior)"
 msgstr  ""
 
-msgid   "1.2"
-msgstr  ""
-
-msgid   "1.4"
-msgstr  ""
-
-msgid   "1.6"
-msgstr  ""
-
-msgid   "1.8"
-msgstr  ""
-
-msgid   "2.0"
-msgstr  ""
-
-msgid   "2.2"
-msgstr  ""
-
-msgid   "2.4"
-msgstr  ""
-
-msgid   "2.6"
-msgstr  ""
-
-msgid   "2.8"
-msgstr  ""
-
 msgid   "3.2"
 msgstr  ""
 
@@ -490,334 +797,6 @@ msgstr  ""
 msgid   "Otimizado para DVD"
 msgstr  ""
 
-msgid   "1.0 (Maximo)"
-msgstr  ""
-
-msgid   "0.9"
-msgstr  ""
-
-msgid   "0.8"
-msgstr  ""
-
-msgid   "0.7"
-msgstr  ""
-
-msgid   "0.6"
-msgstr  ""
-
-msgid   "0.5"
-msgstr  ""
-
-msgid   "0.4"
-msgstr  ""
-
-msgid   "0.3"
-msgstr  ""
-
-msgid   "0.2"
-msgstr  ""
-
-msgid   "0.1"
-msgstr  ""
-
-msgid   "0.0 (Manter original)"
-msgstr  ""
-
-msgid   "-0.1"
-msgstr  ""
-
-msgid   "-0.2"
-msgstr  ""
-
-msgid   "-0.3"
-msgstr  ""
-
-msgid   "-0.4"
-msgstr  ""
-
-msgid   "-0.5"
-msgstr  ""
-
-msgid   "-0.6"
-msgstr  ""
-
-msgid   "-0.7"
-msgstr  ""
-
-msgid   "-0.8"
-msgstr  ""
-
-msgid   "-0.9"
-msgstr  ""
-
-msgid   "-1.0 (Minimo)"
-msgstr  ""
-
-msgid   "6 (Surround 5.1)"
-msgstr  ""
-
-msgid   "5 (Surround 5.0)"
-msgstr  ""
-
-msgid   "4 (Surround 4.0)"
-msgstr  ""
-
-msgid   "2 (Stereo)"
-msgstr  ""
-
-msgid   "1 (Mono)"
-msgstr  ""
-
-msgid   "0 (Mudo)"
-msgstr  ""
-
-msgid   "2.0 (Maximo)"
-msgstr  ""
-
-msgid   "1.0 (Manter original)"
-msgstr  ""
-
-msgid   "0.0"
-msgstr  ""
-
-msgid   "-1.0"
-msgstr  ""
-
-msgid   "-1.2"
-msgstr  ""
-
-msgid   "-1.4"
-msgstr  ""
-
-msgid   "-1.6"
-msgstr  ""
-
-msgid   "-1.8"
-msgstr  ""
-
-msgid   "-2.0 (Minimo)"
-msgstr  ""
-
-msgid   "Selecione outra pasta pois seu usuario nao possui permissao de "
-        "escrita na selecionada."
-msgstr  ""
-
-msgid   "Big Converter Video"
-msgstr  ""
-
-msgid   "Nenhum video foi selecionado para conversao, adicione-o antes de "
-        "prosseguir."
-msgstr  ""
-
-msgid   "Adicionar videos"
-msgstr  ""
-
-msgid   "Esvaziar lista"
-msgstr  ""
-
-msgid   "Alterar destino"
-msgstr  ""
-
-msgid   "Avancar"
-msgstr  ""
-
-msgid   "Sair"
-msgstr  ""
-
-msgid   "Remover da lista"
-msgstr  ""
-
-msgid   "Reproduzir"
-msgstr  ""
-
-msgid   "Ver informacoes"
-msgstr  ""
-
-msgid   "Onde serao salvos os videos ou audios convertidos"
-msgstr  ""
-
-msgid   "Converta videos ou extraia audio."
-msgstr  ""
-
-msgid   "Videos a converter"
-msgstr  ""
-
-msgid   "Destino dos videos convertidos"
-msgstr  ""
-
-msgid   "$savein"
-msgstr  ""
-
-msgid   "Converta videos e audios"
-msgstr  ""
-
-msgid   "3.0 (Maior)"
-msgstr  ""
-
-msgid   "1.8 (Padrao)"
-msgstr  ""
-
-msgid   "1.0"
-msgstr  ""
-
-msgid   "0.2 (Menor)"
-msgstr  ""
-
-msgid   "Voltar"
-msgstr  ""
-
-msgid   "Ao clicar aqui o Big Converter Video sera configurado para gerar "
-        "videos a serem reproduzidos nesse dispositivo."
-msgstr  ""
-
-msgid   "Dicas"
-msgstr  ""
-
-msgid   "<li>As opcoes MP4 Portatil e 3GP sao para uso em equipamentos "
-        "portateis, principalmente celulares. MP4 possui melhor qualidade, "
-        "enquanto o 3GP e suportado por uma variedade maior de aparelhos.\n"
-        "<p><li>MP4 (264) possui possui otimizacoes nao suportadas pela opcao "
-        "portatil, mas para assistir no computador e a melhor opcao.\n"
-        "<p><li>XVID possui compactacao melhor que o DIVX e costuma funcionar "
-        "bem em equipamentos que suportam DIVX, principalmente DVD Players.\n"
-        "<p><li>As opcoes Audio MP3 e audio M4A extraem somente o audio do "
-        "arquivo de video, util principalmente para ouvir em seu MP3 Player, "
-        "sendo o MP3 compativel com mais aparelhos e o M4A com mais "
-        "qualidade.\n"
-        "<p><li>Para obter a melhor qualidade confira no manual do "
-        "equipamento onde ira reproduzir o conteudo convertido qual a "
-        "recomendacao do fabricante para formato e resolucao.\n"
-        "<p><li>Lembre que conversoes sempre possuem perda de qualidade, "
-        "portanto converter um video da baixa qualidade para um formato de "
-        "melhor qualidade nao tera melhorias na imagem.\n"
-        "<p><li>A resolucao otimizada para DVD mantem a resolucao original "
-        "ate a largura de 720 pixels que e o limite dos DVD Players, caso a "
-        "resolucao original seja maior, sera reduzida para 720 pixels."
-msgstr  ""
-
-msgid   "Configuracoes automaticas"
-msgstr  ""
-
-msgid   "Celular simples, com suporte a 3GP."
-msgstr  ""
-
-msgid   "Celular intermediario, com suporte a MP4."
-msgstr  ""
-
-msgid   "Celular moderno, com suporte a MP4."
-msgstr  ""
-
-msgid   "DVD Player, com suporte a XVID."
-msgstr  ""
-
-msgid   "DVD Player, com suporte a DIVX."
-msgstr  ""
-
-msgid   "iPOD somente audio."
-msgstr  ""
-
-msgid   "iPOD video."
-msgstr  ""
-
-msgid   "PSP Sony."
-msgstr  ""
-
-msgid   "Playstation 3."
-msgstr  ""
-
-msgid   "XBOX 360."
-msgstr  ""
-
-msgid   "Visualizar previsao"
-msgstr  ""
-
-msgid   "Iniciar conversao"
-msgstr  ""
-
-msgid   "Os arquivos de legenda devem estar na mesma pasta que o video e com "
-        "o mesmo nome, sendo diferenciados apenas pela extensao.<br>Caso "
-        "existam legendas .ass e .srt sera utilizada a .ass.<br>Somente "
-        "legendas .srt obedecem a formatacao desse configurador."
-msgstr  ""
-
-msgid   "Insere uma borda escura em torno da fonte que torna a leitura da "
-        "legenda muito agradavel."
-msgstr  ""
-
-msgid   "Prever resultado"
-msgstr  ""
-
-msgid   "Embutir legenda"
-msgstr  ""
-
-msgid   "Cor:"
-msgstr  ""
-
-msgid   "Adicionar borda"
-msgstr  ""
-
-msgid   "Bitrate em kbps"
-msgstr  ""
-
-msgid   "Extras"
-msgstr  ""
-
-msgid   "Brilho"
-msgstr  ""
-
-msgid   "Contraste"
-msgstr  ""
-
-msgid   "Saturacao (Cor)"
-msgstr  ""
-
-msgid   "Tempo indicado para iniciar a previsao ultrapassa o limite do video, "
-        "gerando previsao a partir do inicio."
-msgstr  ""
-
-msgid   "Big Converter"
-msgstr  ""
-
-msgid   "Selecione o video a ser utilizado na previsao."
-msgstr  ""
-
-msgid   "Selecione quantos segundos deve ter a previsao.\n"
-        "\n"
-        "A previsao precisa ser completamente gerada antes de ser iniciada, "
-        "dessa forma quanto mais segundos for escolhido mais tempo ira "
-        "demorar para a previsao ser iniciada."
-msgstr  ""
-
-msgid   "BigMencoder"
-msgstr  ""
-
-msgid   "Iniciando..."
-msgstr  ""
-
-msgid   "Conversao cancelada."
-msgstr  ""
-
-msgid   "Conversao de $i concluida."
-msgstr  ""
-
-msgid   "Big Mencoder"
-msgstr  ""
-
-msgid   "Selecione o arquivo a ser utilizado na previsao"
-msgstr  ""
-
-msgid   "(hh:mm:ss)"
-msgstr  ""
-
-msgid   "Conversao concluida."
-msgstr  ""
-
-msgid   "3.0 (Maximo)"
-msgstr  ""
-
-msgid   "0.0 (Minimo)"
-msgstr  ""
-
 msgid   "Selecione o formato desejado."
 msgstr  ""
 
@@ -904,6 +883,27 @@ msgid   "Trilha"
 msgstr  ""
 
 msgid   "Volume"
+msgstr  ""
+
+msgid   "Video 3GP (263)"
+msgstr  ""
+
+msgid   "Manter vídeo original e converter áudio"
+msgstr  ""
+
+msgid   "Video DIVX4"
+msgstr  ""
+
+msgid   "Video DIVX3"
+msgstr  ""
+
+msgid   "Extrair áudio para MP3"
+msgstr  ""
+
+msgid   "Video MP4 (264) - Recomendado"
+msgstr  ""
+
+msgid   "Video XVID"
 msgstr  ""
 
 msgid   "Convertendo, aguarde por favor."

@@ -1,8 +1,8 @@
 Package: biglinux-video-converter
-Version: 1.1.5-0biglinux2
+Version: 1.1.6-0biglinux2
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
-Installed-Size:908
+Installed-Size:612
 Depends: smplayer, mencoder, bigcontrolcenter-legacy, mediainfo, gpac, uni2ascii
 Section: admin
 Priority: optional

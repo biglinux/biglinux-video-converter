@@ -6,6 +6,19 @@
 #License: GPLv2 or later
 #################################################
 
+if [ "${LANG:0:2}" = "pt" ]
+then
+    BIGBASHVIEW_LANG="pt"
+    
+elif [ "${LANG:0:2}" = "es" ]
+then
+    BIGBASHVIEW_LANG="es"
+    
+else
+    BIGBASHVIEW_LANG="en"
+fi
+
+
 OIFS=$IFS
 IFS=$'\n'
 
@@ -20,6 +33,6 @@ IFS=$OIFS
 
 if [ "$(ps -x 2> /dev/null | grep -c "bigbashview.py -c convert.sh.htm")" -lt "2" ]
 then
-      bigbashview  -w fixed -s 640x480 -t qt convert.sh.htm -i icon.png
+     LANGUAGE=$BIGBASHVIEW_LANG bigbashview  -w fixed -s 640x480 -t qt convert.sh.htm -i icon.png
 fi
 
