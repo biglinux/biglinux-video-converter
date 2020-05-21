@@ -3,7 +3,7 @@ Version: 1.1.6-0biglinux2
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Installed-Size:612
-Depends: smplayer, mencoder, bigcontrolcenter-legacy, mediainfo, gpac, uni2ascii
+Depends: smplayer, mencoder, bigcontrolcenter-legacy, mediainfo, gpac, uni2ascii, kdialog
 Section: admin
 Priority: optional
 Description: Gui for mencoder
